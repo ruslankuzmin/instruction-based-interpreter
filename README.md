@@ -26,7 +26,7 @@ a, b, c
 
 ```bash
 # Compile using g++
-g++ -std=c++17 -O2 -o interpreter interpreter.cpp
+g++ -std=c++17 -O2 -o main main.cpp
 ```
 
 ### Running 🏃‍♂️💻🎉
