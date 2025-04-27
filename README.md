@@ -33,7 +33,7 @@ g++ -std=c++17 -O2 -o main main.cpp
 
 ```bash
 # Runs the hardcoded memory sequence and prints "Hello, World!" followed by a newline
-./interpreter
+./main
 ```
 
 ### Memory Initialization 🧩🗃️🖋️
